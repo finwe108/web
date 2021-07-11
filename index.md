@@ -1,6 +1,5 @@
 # web
 web app
-<doctype html>
   <html>
     <head></head>
     <body>
